@@ -1,0 +1,84 @@
+CREATE DATABASE INVEN   --CREAR LA DB
+USE INVEN
+GO
+
+--SELECT * FROM TB_EMPLEADO
+
+CREATE TABLE TB_REPUESTO(
+	cod_repuesto INT IDENTITY(1,1) NOT NULL,
+	nombre VARCHAR(255) NOT NULL,
+	descripcion VARCHAR(255) NOT NULL,
+	cantidad VARCHAR(255) NOT NULL,
+	precio VARCHAR(255) NOT NULL,
+	PRIMARY KEY(cod_repuesto)
+);
+GO
+
+CREATE TABLE TB_EMPLEADO(
+	idUsuario INT IDENTITY(1,1) NOT NULL,
+	usuario VARCHAR(255) NOT NULL,
+	nombre VARCHAR(255) NOT NULL,
+	pass VARCHAR(255) NOT NULL,
+	estatus VARCHAR(255) NOT NULL,
+	PRIMARY KEY(idUsuario)
+
+);
+
+INSERT INTO TB_EMPLEADO(usuario, nombre, pass, estatus) VALUES('sam','sam','123','A')
+INSERT INTO TB_EMPLEADO(usuario, nombre, pass, estatus) VALUES('admin','pblo','admin','B')
+
+CREATE TABLE TB_FACTURA(
+  factura INT IDENTITY(1,1) NOT NULL,
+  nit VARCHAR(255) NOT NULL,
+  fecha VARCHAR(255) NOT NULL,
+  monto VARCHAR(255) NOT NULL,
+  PRIMARY KEY(factura)
+);
+GO
+
+INSERT INTO TB_FACTURA(nit,fecha,monto) VALUES('12334','18/05/2019','1000')
+
+--SELECT * FROM TB_FACTURA
+--SELECT * FROM TB_REPUESTO
+GO
+
+CREATE TABLE TB_DETALLE_FACTURA(
+  detalle INT IDENTITY(1,1) NOT NULL,
+  nit VARCHAR(255) NOT NULL,
+  factura INT NOT NULL,
+  cantidad VARCHAR(255) NOT NULL,
+  precio VARCHAR(255) NOT NULL,
+  descuento VARCHAR(255) NOT NULL,
+  PRIMARY KEY(detalle),
+  FOREIGN KEY(factura) REFERENCES TB_FACTURA(factura)
+ 
+);
+GO
+
+CREATE TABLE TB_MARCA(
+	cod_marca INT IDENTITY(1,1) NOT NULL,
+	nombre VARCHAR(255) NOT NULL,
+);
+GO
+
+--SELECT * FROM TB_MARCA
+INSERT INTO TB_MARCA(nombre) VALUES('MAZDA')
+INSERT INTO TB_MARCA(nombre) VALUES('TOYOTA')
+
+CREATE TABLE TB_MODELO(
+	modelo INT IDENTITY(1,1) NOT NULL,
+	nombre VARCHAR(255) NOT NULL,
+	flg_rodado VARCHAR(255) NOT NULL,
+	flg_sedan VARCHAR(255) NOT NULL,
+	PRIMARY KEY(modelo)
+);
+GO
+--SELECT * FROM TB_MODELO
+INSERT INTO TB_MODELO(nombre, flg_rodado, flg_sedan) VALUES ('Yaris','0','111')
+INSERT INTO TB_MODELO(nombre, flg_rodado, flg_sedan) VALUES ('Camioneta','1','222')
+
+
+INSERT  INTO TB_DETALLE_FACTURA( nit,factura,cantidad,precio,descuento) VALUES ('12444',1,'100','100','10%')
+INSERT  INTO TB_DETALLE_FACTURA( nit,factura,cantidad,precio,descuento) VALUES ('223344',1,'10','90','30%') 
+
+--SELECT * FROM TB_DETALLE_FACTURA

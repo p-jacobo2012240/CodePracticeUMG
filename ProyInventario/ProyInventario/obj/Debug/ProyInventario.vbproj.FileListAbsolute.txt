@@ -1,0 +1,27 @@
+C:\Users\ingjc_000\Documents\JC\UMG\2018 Primer Semestre\Introducción a los Sistemas de Cómputo\Clase No. 7\Inventario\ProyInventario\ProyInventario\bin\Debug\ProyInventario.exe.config
+C:\Users\ingjc_000\Documents\JC\UMG\2018 Primer Semestre\Introducción a los Sistemas de Cómputo\Clase No. 7\Inventario\ProyInventario\ProyInventario\bin\Debug\ProyInventario.exe
+C:\Users\ingjc_000\Documents\JC\UMG\2018 Primer Semestre\Introducción a los Sistemas de Cómputo\Clase No. 7\Inventario\ProyInventario\ProyInventario\bin\Debug\ProyInventario.pdb
+C:\Users\ingjc_000\Documents\JC\UMG\2018 Primer Semestre\Introducción a los Sistemas de Cómputo\Clase No. 7\Inventario\ProyInventario\ProyInventario\bin\Debug\ProyInventario.xml
+C:\Users\ingjc_000\Documents\JC\UMG\2018 Primer Semestre\Introducción a los Sistemas de Cómputo\Clase No. 7\Inventario\ProyInventario\ProyInventario\obj\Debug\ProyInventario.Resources.resources
+C:\Users\ingjc_000\Documents\JC\UMG\2018 Primer Semestre\Introducción a los Sistemas de Cómputo\Clase No. 7\Inventario\ProyInventario\ProyInventario\obj\Debug\ProyInventario.vbproj.GenerateResource.Cache
+C:\Users\ingjc_000\Documents\JC\UMG\2018 Primer Semestre\Introducción a los Sistemas de Cómputo\Clase No. 7\Inventario\ProyInventario\ProyInventario\obj\Debug\ProyInventario.exe
+C:\Users\ingjc_000\Documents\JC\UMG\2018 Primer Semestre\Introducción a los Sistemas de Cómputo\Clase No. 7\Inventario\ProyInventario\ProyInventario\obj\Debug\ProyInventario.xml
+C:\Users\ingjc_000\Documents\JC\UMG\2018 Primer Semestre\Introducción a los Sistemas de Cómputo\Clase No. 7\Inventario\ProyInventario\ProyInventario\obj\Debug\ProyInventario.pdb
+C:\Users\ingjc_000\Documents\JC\UMG\2018 Primer Semestre\Introducción a los Sistemas de Cómputo\Clase No. 7\Inventario\ProyInventario\ProyInventario\obj\Debug\ProyInventario.frmLogin.resources
+C:\Users\ingjc_000\Documents\JC\UMG\2018 Primer Semestre\Introducción a los Sistemas de Cómputo\Clase No. 7\Inventario\ProyInventario\ProyInventario\obj\Debug\ProyInventario.frmPrincipal.resources
+C:\Users\Pablo Sound\Documents\Visual Studio 2015\Projects\UMG INVENTARIO\Inventario\ProyInventario\ProyInventario\bin\Debug\ProyInventario.exe.config
+C:\Users\Pablo Sound\Documents\Visual Studio 2015\Projects\UMG INVENTARIO\Inventario\ProyInventario\ProyInventario\obj\Debug\ProyInventario.exe
+C:\Users\Pablo Sound\Documents\Visual Studio 2015\Projects\UMG INVENTARIO\Inventario\ProyInventario\ProyInventario\obj\Debug\ProyInventario.xml
+C:\Users\Pablo Sound\Documents\Visual Studio 2015\Projects\UMG INVENTARIO\Inventario\ProyInventario\ProyInventario\obj\Debug\ProyInventario.pdb
+C:\Users\Pablo Sound\Documents\Visual Studio 2015\Projects\UMG INVENTARIO\Inventario\ProyInventario\ProyInventario\bin\Debug\ProyInventario.exe
+C:\Users\Pablo Sound\Documents\Visual Studio 2015\Projects\UMG INVENTARIO\Inventario\ProyInventario\ProyInventario\bin\Debug\ProyInventario.pdb
+C:\Users\Pablo Sound\Documents\Visual Studio 2015\Projects\UMG INVENTARIO\Inventario\ProyInventario\ProyInventario\bin\Debug\ProyInventario.xml
+C:\Users\Pablo Sound\Documents\Visual Studio 2015\Projects\UMG INVENTARIO\Inventario\ProyInventario\ProyInventario\obj\Debug\ProyInventario.vbprojResolveAssemblyReference.cache
+C:\Users\Pablo Sound\Documents\Visual Studio 2015\Projects\UMG INVENTARIO\Inventario\ProyInventario\ProyInventario\obj\Debug\ProyInventario.frmLogin.resources
+C:\Users\Pablo Sound\Documents\Visual Studio 2015\Projects\UMG INVENTARIO\Inventario\ProyInventario\ProyInventario\obj\Debug\ProyInventario.frmPrincipal.resources
+C:\Users\Pablo Sound\Documents\Visual Studio 2015\Projects\UMG INVENTARIO\Inventario\ProyInventario\ProyInventario\obj\Debug\ProyInventario.Resources.resources
+C:\Users\Pablo Sound\Documents\Visual Studio 2015\Projects\UMG INVENTARIO\Inventario\ProyInventario\ProyInventario\obj\Debug\ProyInventario.vbproj.GenerateResource.Cache
+C:\Users\Pablo Sound\Documents\Visual Studio 2015\Projects\UMG INVENTARIO\Inventario\ProyInventario\ProyInventario\obj\Debug\ProyInventario.ingresoProd.resources
+C:\Users\Pablo Sound\Documents\Visual Studio 2015\Projects\UMG INVENTARIO\Inventario\ProyInventario\ProyInventario\obj\Debug\ProyInventario.ventas.resources
+C:\Users\Pablo Sound\Documents\Visual Studio 2015\Projects\UMG INVENTARIO\Inventario\ProyInventario\ProyInventario\obj\Debug\ProyInventario.mlm.resources
+C:\Users\Pablo Sound\Documents\Visual Studio 2015\Projects\UMG INVENTARIO\Inventario\ProyInventario\ProyInventario\obj\Debug\ProyInventario.reporte.resources
